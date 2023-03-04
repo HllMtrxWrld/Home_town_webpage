@@ -67,3 +67,24 @@ font-size: 80px;
 .card-text {
     padding: 5px;
 }
+
+.my_photo {
+    width: 300px;
+    border-radius: 15px;
+}
+
+.guide_card {
+    background-color: #f4e285;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.guide_discription {
+    font-family: 'PT Serif', serif;
+    width: 400px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
